@@ -1,0 +1,54 @@
+date,time,feedback_clean,satisfaction
+22/03/2025,18:14:00,okay,3.0
+31/03/2025,17:32:00,not good,2.0
+29/03/2025,23:57:00,terrible,1.0
+24/03/2025,09:25:00,great service,5.0
+25/03/2025,08:47:00,helpful staff,4.0
+25/03/2025,14:14:00,loved it,5.0
+29/03/2025,09:57:00,excellent,5.0
+26/03/2025,22:33:00,excellent,5.0
+26/03/2025,06:44:00,ok,3.0
+22/03/2025,23:31:00,terrible,1.0
+23/03/2025,06:09:00,great service,5.0
+30/03/2025,18:57:00,could be better,3.0
+28/03/2025,14:24:00,not good,2.0
+28/03/2025,10:27:00,fast and easy,4.0
+30/03/2025,07:50:00,very helpful,
+28/03/2025,11:34:00,not good,2.0
+30/03/2025,13:00:00,slow response,2.0
+27/03/2025,14:53:00,ok,3.0
+28/03/2025,22:53:00,could be better,3.0
+21/03/2025,21:17:00,helpful staff,4.0
+23/03/2025,19:07:00,excellent,5.0
+26/03/2025,16:15:00,amazing help,5.0
+25/03/2025,11:54:00,confusing website,2.0
+31/03/2025,03:23:00,prompt response,4.0
+23/03/2025,05:55:00,excellent,5.0
+26/03/2025,17:10:00,slow response,2.0
+24/03/2025,06:09:00,great service,5.0
+31/03/2025,12:14:00,great service,5.0
+29/03/2025,15:59:00,excellent,5.0
+23/03/2025,15:39:00,okay,3.0
+26/03/2025,12:07:00,loved it,5.0
+27/03/2025,20:51:00,okay,3.0
+22/03/2025,21:14:00,clear instructions,4.0
+31/03/2025,16:01:00,clear instructions,4.0
+28/03/2025,14:18:00,terrible,1.0
+23/03/2025,08:31:00,clear instructions,4.0
+25/03/2025,11:32:00,great service,5.0
+29/03/2025,07:52:00,ok,3.0
+26/03/2025,17:17:00,rude support,
+28/03/2025,04:19:00,ok,3.0
+26/03/2025,22:08:00,clear instructions,4.0
+23/03/2025,13:58:00,excellent,5.0
+25/03/2025,12:57:00,helpful staff,4.0
+28/03/2025,11:47:00,great service,5.0
+28/03/2025,07:43:00,excellent,5.0
+27/03/2025,06:58:00,rude support,1.0
+25/03/2025,02:54:00,excellent,5.0
+,,Top 3 Keywords:,
+,,- excellent: 8 occurrences,
+,,- great: 6 occurrences,
+,,- service: 6 occurrences,
+,,Most Positive Day:,
+,,- 24/03/2025 (Avg Satisfaction: 5.0),
